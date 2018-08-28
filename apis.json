@@ -1,0 +1,185 @@
+{
+	"name": "Streadata.io API Gallery - Scripts",
+	"description": "This is a repository of scripts APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/scripts.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://scripts.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Webscripts",
+			"x-api-slug": "webscripts",
+			"description": "Webscripts respond to HTTP requests, making them easy to call from web and mobile apps. Webscripts have all the features you need, like password hashing and persistent storage, plus the full programmability of Lua. Many developer tools, such as GitHub and Stripe, offer webhooks as a way of delivering notifications. Webscripts are a fast and easy way to receive those webhooks. Our built-in request logging makes them equally easy to debug on-the-fly. Webscripts can also be activated on a schedule, providing a simple way to build monitoring or other automation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/56-webscript-io.jpg",
+			"humanURL": "https://www.webscript.io/",
+			"baseURL": "https:///",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/webscripts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Temboo",
+			"x-api-slug": "temboo",
+			"description": "The software toolkit that makes everyone stand taller. Tools for digital transformation, empowering everyone to innovate with IoT, APIs, and emerging tech.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/57-temboo.jpg",
+			"humanURL": "https://www.temboo.com/",
+			"baseURL": "https:///",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/temboo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ConvertAPI",
+			"x-api-slug": "convertapi",
+			"description": "Create PDF easily with our developers API/SDK for Ruby Java .NET C# PHP Shell Delphi.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/357-convertapi.jpg",
+			"humanURL": "http://www.convertapi.com/",
+			"baseURL": "https://do.convertapi.com//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/convertapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Shopify",
+			"x-api-slug": "shopify",
+			"description": "Shopify is a commerce platform that allows anyone to easily sell online at a retail location and everywhere in between. It offers a professional online storefront, a payment solution to accept credit cards, and the Shopify POS application to power retail sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Shopify-logo.png",
+			"humanURL": "https://www.shopify.com/",
+			"baseURL": "https://DefaultParameterValue:DefaultParameterValue@DefaultParameterValue.myshopify.com//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/shopify/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Google Apps Script Execution",
+			"x-api-slug": "google-apps-script-execution",
+			"description": "Runs a function in an Apps Script project. The project must be deployed for use with the Apps Script Execution API. This method requires authorization with an OAuth 2.0 token that includes at least one of the scopes listed in the Authorization section; script projects that do not require authorization cannot be executed through this API. To find the correct scopes to include in the authentication token, open the project in the script editor, then select File &gt; Project properties and click the Scopes tab.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-apps-scripts-services.png",
+			"humanURL": "https://developers.google.com/apps-script/execution/rest/v1/scripts/run",
+			"baseURL": "://script.googleapis.com//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/google-apps-script-execution/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Azure HDInsight",
+			"x-api-slug": "azure-hdinsight",
+			"description": "Azure HDInsight is a Hadoop-based service that brings an Apache Hadoop solution to the cloud. Gain the full value of big data with a cloud-based data platform that manages data of any type and size.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-hdinsights-open-source-analytics.png",
+			"humanURL": "https://azure.microsoft.com/en-us/services/hdinsight/",
+			"baseURL": "://management.azure.com//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/azure-hdinsight/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Steem",
+			"x-api-slug": "steem",
+			"description": "A new way for publishers to monetize their online content and community, based on battle-tested blockchain technology.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg",
+			"humanURL": "http://steemit.com",
+			"baseURL": "https://api.steemjs.com//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/steem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Logicbroker",
+			"x-api-slug": "logicbroker",
+			"description": "Logicbroker provides beautiful technology that unites brands, retailers, and the systems they rely on. Harness the latest in cloud and supply chain automation technology with unrivaled speed and integration flexibility. We craft the connections that enable digital commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logicbroker-logo.png",
+			"humanURL": "https://www.logicbroker.com/",
+			"baseURL": "https://stage.commerceapi.io//",
+			"tags": "Scripts",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/logicbroker/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Scripts",
+	"include": [
+		{
+			"name": "Webscripts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/webscripts/apis.yaml"
+		},
+		{
+			"name": "Temboo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/temboo/apis.yaml"
+		},
+		{
+			"name": "ConvertAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/convertapi/apis.yaml"
+		},
+		{
+			"name": "Shopify",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/shopify/apis.yaml"
+		},
+		{
+			"name": "Google Apps Script Execution",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/google-apps-script-execution/apis.yaml"
+		},
+		{
+			"name": "Azure HDInsight",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/azure-hdinsight/apis.yaml"
+		},
+		{
+			"name": "Steem",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/steem/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Logicbroker",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/scripts/master/_listings/logicbroker/apis.yaml"
+		}
+	]
+}
